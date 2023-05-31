@@ -1,32 +1,7 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -50,7 +25,6 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -70,18 +44,6 @@ After you're finished please remove all the comments and instructions!
   <ul>
   <li><a href="https:///">React.js</a></li> 
   <li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
   </ul>
 </details>
 
@@ -115,43 +77,27 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need to :
 1- install node.js and react.js
 
-<!--
-Example command:
 
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!-- 
+
 
 ```sh
   cd my-folder
-  git clone git@github.com:tawakuliKH/To-Do-List.git
-  cd To-Do-List
-  npm install webpack webpack-cli --save-dev
-  npm install --save lodash
-  npm install --save-dev html-webpack-plugin
-  npm install file-loader
-``` -->
+  git git@github.com:tawakuliKH/Math-Magician.git
+  cd Math-Magician
+  
+``` 
 
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
 
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
@@ -168,25 +114,10 @@ To run the project, execute the following command:
 
 No Tests Necessary.
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
 
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -241,10 +172,6 @@ If you like this project please give me a comment.
 I would like to thank Microverse for inspiring students doing such great things.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 
 
